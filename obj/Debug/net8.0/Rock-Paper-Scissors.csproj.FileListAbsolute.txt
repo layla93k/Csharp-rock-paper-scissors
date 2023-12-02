@@ -1,0 +1,15 @@
+/home/layla/coding-post-nc/Rock-Paper-Scissors/bin/Debug/net8.0/Rock-Paper-Scissors
+/home/layla/coding-post-nc/Rock-Paper-Scissors/bin/Debug/net8.0/Rock-Paper-Scissors.deps.json
+/home/layla/coding-post-nc/Rock-Paper-Scissors/bin/Debug/net8.0/Rock-Paper-Scissors.runtimeconfig.json
+/home/layla/coding-post-nc/Rock-Paper-Scissors/bin/Debug/net8.0/Rock-Paper-Scissors.dll
+/home/layla/coding-post-nc/Rock-Paper-Scissors/bin/Debug/net8.0/Rock-Paper-Scissors.pdb
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.AssemblyInfoInputs.cache
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.AssemblyInfo.cs
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.sourcelink.json
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.dll
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/refint/Rock-Paper-Scissors.dll
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.pdb
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/Rock-Paper-Scissors.genruntimeconfig.cache
+/home/layla/coding-post-nc/Rock-Paper-Scissors/obj/Debug/net8.0/ref/Rock-Paper-Scissors.dll
